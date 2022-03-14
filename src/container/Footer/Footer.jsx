@@ -13,7 +13,7 @@ const Footer = () => (
 
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
-        <h1 className="app__footer-headtext">Contact Us</h1>
+        <h2 className="app__footer-headtext">Contact Us</h2>
         <p className="p__opensans">NO. 23 Liberty Boulevard, jos, Plateau State</p>
         <p className="p__opensans">+234 705-294-1411</p>
         <p className="p__opensans">+234 902-978-5130</p>
